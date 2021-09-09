@@ -1,0 +1,37 @@
+@font-face {
+	font-family: 'Euclid Flex';
+	src: 
+		 url('../fonts/EuclidFlex-Regular.woff2') format('woff2'),
+		 url('../fonts/EuclidFlex-Regular.woff') format('woff'),
+		 url('../fonts/EuclidFlex-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+ }
+ @font-face {
+	font-family: 'Helvetica Neue Cyr';
+	src: 
+		url('../fonts/Helvetica Neue Cyr Black.woff2') format('woff2'),
+		url('../fonts/Helvetica Neue Cyr Black.woff') format('woff'),
+		url('../fonts/Helvetica Neue Cyr Black.ttf') format('truetype');	
+	font-weight: 900;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: 'Helvetica Neue Cyr';
+	src: 
+		url('../fonts/Helvetica Neue Cyr Bold.woff2') format('woff2'),
+		url('../fonts/Helvetica Neue Cyr Bold.woff') format('woff'),
+		url('../fonts/Helvetica Neue Cyr Bold.ttf') format('truetype');	
+	font-weight: 700;
+	font-style: normal;
+	}
+@font-face {
+	font-family: 'Helvetica Neue Cyr';
+	src: 
+		url('../fonts/Helvetica Neue Cyr Roman.woff2') format('woff2'),
+		url('../fonts/Helvetica Neue Cyr Roman.woff') format('woff'),
+		url('../fonts/Helvetica Neue Cyr Roman.ttf') format('truetype');	
+	font-weight: normal;
+	font-style: normal;
+	}
